@@ -1,4 +1,4 @@
-function printAndSum(start, end) {
+function sumAndPrint(start, end) {
     let text = '';
     let sum = 0;
     for (let i = start; i <= end; i++) {
